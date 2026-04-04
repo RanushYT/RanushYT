@@ -14,4 +14,4 @@ Aspiring Computer Engineer | Passionate about Python, Machine Learning, and buil
 - Small apps and tools to solve everyday problems
 - Contributions to open-source projects
 
-![Ranusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanushaYt&show_icons=true&theme=radical)
+![Ranusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanushYT&show_icons=true&theme=radical)
