@@ -16,5 +16,3 @@ Aspiring Computer Engineer | Passionate about Python, Machine Learning, and buil
 
 ## Currently learning
 Git branching · Linux command line · File permissions · grep & piping
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RanushYT&show_icons=true&theme=default)
